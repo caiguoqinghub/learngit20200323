@@ -1,0 +1,6 @@
+啊
+ad
+EOF
+
+<<eof
+[A[B<< eof
